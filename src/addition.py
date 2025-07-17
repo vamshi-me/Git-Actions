@@ -1,8 +1,8 @@
 # app.py
 # This is a test commit
 # final commit
-def add(a, b):
-    return a + b
+def add(a, c):
+    return a + c
 
 def test_add():
     assert add(1, 2) == 3
